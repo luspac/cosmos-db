@@ -1,0 +1,15 @@
+{
+    "name": "myBotJs",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "9e68ba70-52d7-11e8-a5f8-0931e3877836",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "new-bot",
+    "dependencies": {
+        "botbuilder": "^4.0.0-m4.0",
+        "botbuilder-azure": "^^4.0.0-m3.0",
+        "botbuilder-dialogs": "^4.0.0-preview1.2",
+        "documentdb": "^1.14.4",
+        "dotenv": "^2.0.0",
+        "restify": "^4.3.0"
+    },
+    "devDependencies": {
+        "@types/node": "^6.0.52",
+        "@types/restify": "^2.0.35"
+    }
+}
